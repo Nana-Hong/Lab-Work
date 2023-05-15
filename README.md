@@ -1,7 +1,7 @@
 # Lab-work
 
 ## Video Link: 
-https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=558645cf-0919-4c03-bf6f-afcd00fc373b
+<img width="743" alt="截屏2023-05-15 02 19 27" src="https://github.com/Nana-Hong/Lab-Work/assets/119884327/218eff8f-b181-4749-91fc-fb14ecfe68c4">
 
 YouTube video: https://youtu.be/UHy9vchA1U8
 
